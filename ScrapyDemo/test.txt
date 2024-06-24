@@ -1,0 +1,429 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="edge" />
+    <meta name=“renderer” content=“webkit”>
+    <meta name="referrer" content="always">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+    <link rel="search" type="application/opensearchdescription+xml" title="豆瓣搜索" href="/opensearch?source=movie">
+    <title>名侦探柯南：万圣节的新娘 名探偵コナン ハロウィンの花嫁 - 电影 - 豆瓣搜索</title>
+    <meta name="description" content="名侦探柯南：万圣节的新娘 名探偵コナン ハロウィンの花嫁 - 电影 - 豆瓣搜索">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/shire/204847ecc7d679de915c283531d14f16cfbee65e/css/douban.css">
+    <style>
+      #wrapper { width: 1040px; box-sizing: border-box;}
+      @media (max-width: 1024px) { #wrapper { width: 1000px } }
+    </style>
+    <script src="//img3.doubanio.com/dae/staticng/s/search/415a1c719b90f06a20af7d5c9d33d8f187d89c71/dist/jquery.js"></script>
+
+    
+    
+  
+
+    <style type="text/css">
+    #root {
+      min-height: 500px;
+    }
+
+    #root > .search-title {
+      font-size: 25px;
+      font-weight: bold;
+      line-height: 1;
+      margin-bottom: 30px;
+      padding: 0;
+      color: #494949;
+    }
+  </style>
+  </head>
+  <body>
+    
+  
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/ded47ae/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=main" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/ded47ae/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/ded47ae/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value="名侦探柯南：万圣节的新娘 名探偵コナン ハロウィンの花嫁"></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >电视剧</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2023/?fullscreen=1&source=navigation"
+     >2023年度榜单</a>
+    </li>
+    <li    ><a href="https://c9.douban.com/app/standbyme-2023/?autorotate=false&fullscreen=true&hidenav=true&monitor_screenshot=true&source=web_navigation"
+            target="_blank"
+     >2023年度报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2023/?fullscreen=1&source=movie_navigation" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/ded47ae/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+      
+      
+  <div id="root" class="root">
+    <div class="search-title">正在搜索...</div>
+  </div>
+  <div id="browser-support"></div>
+
+      
+  <div id="footer">
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=main" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+  </div>
+
+    </div>
+    <script src="https://img1.doubanio.com/f/shire/4888ee2fda6812f70a064a51c93b84fde8e4a3c2/js/douban.js" charset="utf-8"></script>
+    
+  <script type="text/javascript">
+    window.__DATA__ = "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";
+      window.__USER__ = { }
+
+  </script>
+  <script src="//img3.doubanio.com/dae/staticng/s/search/415a1c719b90f06a20af7d5c9d33d8f187d89c71/dist/vendor.js" charset="utf-8"></script>
+  <script src="//img3.doubanio.com/dae/staticng/s/search/415a1c719b90f06a20af7d5c9d33d8f187d89c71/dist/bundle.js" charset="utf-8"></script>
+  <script src="/js/core/new_rating.js" charset="utf-8"></script>
+  <script src="//img3.doubanio.com/dae/staticng/s/search/415a1c719b90f06a20af7d5c9d33d8f187d89c71/js/init_collect_btn.js" charset="utf-8"></script>
+  
+<link rel="stylesheet" href="https://img9.doubanio.com/dae/cdnlib/libs/browser-support/1.0.0/browser-support.css ">
+<script src="https://img9.doubanio.com/dae/cdnlib/libs/browser-support/1.0.0/browser-support.js?v=1" charset="utf-8"></script>
+
+  
+
+
+    
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '2tUFWPZnNkA',
+            criteria = '8:名侦探柯南：万圣节的新娘|8:名探偵コナン|8:ハロウィンの花嫁|3:/movie/subject_search?search_text=%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%EF%BC%9A%E4%B8%87%E5%9C%A3%E8%8A%82%E7%9A%84%E6%96%B0%E5%A8%98+%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%81%AE%E8%8A%B1%E5%AB%81&amp;cat=1002',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_search_top_right', 'dale_movie_subject_search_bottom'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/bG90MDZqMy9mL2FkanMvYzhmZjE5MGNhYzNkN2UyMWJjMTI3NzJlYWNkOWVkODZhMmFjMzdhMi9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WP579" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WP579');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_setCampNameKey', 'dcn']);
+_gaq.push(['_setCampSourceKey', 'dcs']);
+_gaq.push(['_setCampMediumKey', 'dcm']);
+_gaq.push(['_setCampTermKey', 'dct']);
+_gaq.push(['_setCampContentKey', 'dcc']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+
+    _gaq.push(['_setCustomVar', 1, 'responsive_view_mode', 'desktop', 3]);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+window._ga_init = function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+};
+if (window.addEventListener) {
+    window.addEventListener('load', _ga_init, false);
+} else {
+    window.attachEvent('onload', _ga_init);
+}
+</script>
+
+
+
+
+
+
+    <script type="text/javascript">
+    (function() {
+      DetectBrowser({
+        domId: 'browser-support',
+        callback: function(ok) {
+          if (!ok) {
+            var $root = document.getElementById('root')
+            $root && $root.parentElement.removeChild($root)
+          }
+        }
+      })
+    }())
+  </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
